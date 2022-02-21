@@ -1,0 +1,232 @@
+{
+  "adminGroups": [
+    {
+      "groupName": "Executive",
+      "groupTag": " ",
+      "groupHexColor": "#FFAA55",
+      "permissions": [
+        {
+          "commandName": "*",
+          "useArgs": false,
+          "argsCount": 0
+        }
+      ],
+      "admins": {
+        "76561198400805984": "Frozen"
+      }
+    },
+    {
+      "groupName": "Admin",
+      "groupTag": " ",
+      "groupHexColor": "#DC143C",
+      "permissions": [
+        {
+          "commandName": "vanish",
+          "useArgs": false,
+          "argsCount": 0
+        },
+        {
+          "commandName": "noclip",
+          "useArgs": false,
+          "argsCount": 0
+        },
+        {
+          "commandName": "god",
+          "useArgs": false,
+          "argsCount": 0
+        },
+        {
+          "commandName": "tp",
+          "useArgs": true,
+          "argsCount": 0
+        },
+        {
+          "commandName": "radar",
+          "useArgs": true,
+          "argsCount": 0
+        },
+        {
+          "commandName": "teaminfo",
+          "useArgs": true,
+          "argsCount": 0
+        },
+        {
+          "commandName": "serverinfo",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "viewinv",
+          "useArgs": true,
+          "argsCount": 0
+        },
+        {
+          "commandName": "entity.spawn minicopter",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "entity.spawn scraptransporthelicopter",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "inventory.give",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "inventory.giveid",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "inventory.givearm",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "mute",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "unmute",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "global.teleport2marker",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "spectateplayer",
+          "useArgs": false,
+          "argsCount": 1
+        },
+        {
+          "commandName": "manageinventory",
+          "useArgs": false,
+          "argsCount": 1
+        },
+        {
+          "commandName": "spectate",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "debugcamera",
+          "useArgs": false,
+          "argsCount": 1
+        },
+        {
+          "commandName": "healplayer",
+          "useArgs": false,
+          "argsCount": 1
+        },
+        {
+          "commandName": "killplayer",
+          "useArgs": false,
+          "argsCount": 1
+        },
+        {
+          "commandName": "teleport",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "teleport2me",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "admintime",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "layer.toggle AI",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "layer.toggle Construction",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "layer.toggle Transparent",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "layer.toggle Debris",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "layer.toggle Default",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "layer.toggle Deployed",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "layer.toggle Ragdoll",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "layer.toggle Terrain",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "layer.toggle Tree",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "layer.toggle World",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "layer.toggle Water",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "layer.toggle Clutter",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "skipqueue",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "entity.spawn",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "ubertool",
+          "useArgs": true,
+          "argsCount": 1
+        }
+      ],
+      "admins": {
+        "76561198321037933": "Bue",
+        "76561198107903291": "Rider",
+        "76561199012204995": "Chris",
+        "76561199022694192": "Wolfzie"
+      }
+    }
+  ]
+}
