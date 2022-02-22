@@ -41,6 +41,11 @@
           "argsCount": 0
         },
         {
+          "commandName": "b",
+          "useArgs": false,
+          "argsCount": 0
+        },
+        {
           "commandName": "radar",
           "useArgs": true,
           "argsCount": 0
@@ -117,11 +122,6 @@
         },
         {
           "commandName": "debugcamera",
-          "useArgs": false,
-          "argsCount": 1
-        },
-        {
-          "commandName": "healplayer",
           "useArgs": false,
           "argsCount": 1
         },
@@ -225,7 +225,30 @@
         "76561198321037933": "Bue",
         "76561198107903291": "Rider",
         "76561199012204995": "Chris",
-        "76561199022694192": "Wolfzie"
+        "76561199022694192": "Wolfzie",
+        "76561198280246592": "Toxi"
+      }
+    },
+    {
+      "groupName": "Chatmod",
+      "groupTag": " ",
+      "groupHexColor": "#37FF77",
+      "permissions": [
+        {
+          "commandName": "mute",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "unmute",
+          "useArgs": true,
+          "argsCount": 1
+        }
+      ],
+      "admins": {
+        "76561198011420074": "Tulusca",
+        "76561198013690631": "Danish",
+        "76561198073973802": "Stevey"
       }
     }
   ]
