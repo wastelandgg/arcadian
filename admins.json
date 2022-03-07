@@ -2,7 +2,7 @@
   "adminGroups": [
     {
       "groupName": "Executive",
-      "groupTag": "[EXECUTIVE]",
+      "groupTag": "",
       "groupHexColor": "#FFAA55",
       "permissions": [
         {
@@ -17,7 +17,7 @@
     },
     {
       "groupName": "Admin",
-      "groupTag": "[ADMIN]",
+      "groupTag": "",
       "groupHexColor": "#DC143C",
       "permissions": [
         {
@@ -231,7 +231,7 @@
     },
     {
       "groupName": "Chatmod",
-      "groupTag": "[CHATMOD]",
+      "groupTag": "",
       "groupHexColor": "#37FF77",
       "permissions": [
         {
