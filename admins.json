@@ -249,6 +249,35 @@
         "76561198011420074": "Tulusca",
         "76561198013690631": "Danish",
         "76561198073973802": "Stevey"
+      },
+    {
+      "groupName": "Spectators",
+      "groupTag": "",
+      "groupHexColor": "#37FF77",
+      "permissions": [
+        {
+          "commandName": "mute",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "unmute",
+          "useArgs": true,
+          "argsCount": 1
+        },
+        {
+          "commandName": "vanish",
+          "useArgs": false,
+          "argsCount": 0
+        },
+        {
+          "commandName": "noclip",
+          "useArgs": false,
+          "argsCount": 0
+        }
+      ],
+      "admins": {
+        "76561198839386481": "Rhyno12"
       }
     }
   ]
