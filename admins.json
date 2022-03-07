@@ -252,7 +252,7 @@
       }
     },
     {
-      "groupName": "Spectators",
+      "groupName": "Spectator",
       "groupTag": "",
       "groupHexColor": "#37FF77",
       "permissions": [
