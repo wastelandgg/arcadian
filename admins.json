@@ -226,37 +226,7 @@
       "admins": {
         "76561198280246592": "Toxi",
         "76561198011420074": "Tulusca",
-        "76561198437780509": "Jacob",
-      }
-    },
-    {
-      "groupName": "Spectator",
-      "groupTag": "",
-      "groupHexColor": "#37FF77",
-      "permissions": [
-        {
-          "commandName": "mute",
-          "useArgs": true,
-          "argsCount": 1
-        },
-        {
-          "commandName": "unmute",
-          "useArgs": true,
-          "argsCount": 1
-        },
-        {
-          "commandName": "vanish",
-          "useArgs": false,
-          "argsCount": 0
-        },
-        {
-          "commandName": "noclip",
-          "useArgs": false,
-          "argsCount": 0
-        }
-      ],
-      "admins": {
-        "76561198839386481": "Rhyno12"
+        "76561198437780509": "Jacob"
       }
     }
   ]
