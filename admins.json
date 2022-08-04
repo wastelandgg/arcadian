@@ -230,27 +230,6 @@
       }
     },
     {
-      "groupName": "Chatmod",
-      "groupTag": "",
-      "groupHexColor": "#37FF77",
-      "permissions": [
-        {
-          "commandName": "mute",
-          "useArgs": true,
-          "argsCount": 1
-        },
-        {
-          "commandName": "unmute",
-          "useArgs": true,
-          "argsCount": 1
-        }
-      ],
-      "admins": {
-        "76561199016186912": "Toyota",
-        "76561198400805984": "Frozen"
-      }
-    },
-    {
       "groupName": "Spectator",
       "groupTag": "",
       "groupHexColor": "#37FF77",
